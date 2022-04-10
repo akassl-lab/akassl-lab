@@ -1,7 +1,5 @@
 # Welcome to akassl-lab 👋
 
-
-<img src="https://raw.githubusercontent.com/akassl-lab/akassl-lab/master/banner/akassl.png" alt="akassl-lab"><br/>
 <img src="https://github-readme-stats.vercel.app/api?username=akassl-lab&count_private=true&show_icons=true&theme=radical" alt="gitstats">
 <img src="https://badge42.vercel.app/api/v2/cl1sk37k2001109m9v6qxdnbd/stats?cursusId=21&coalitionId=undefined" alt="akassl-lab">
 <hr>
